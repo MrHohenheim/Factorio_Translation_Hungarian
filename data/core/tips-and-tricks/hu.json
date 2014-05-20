@@ -33,7 +33,7 @@
   {
     "title": "Gyors entitás mozgatás",
     "image": "fast-entity-transfer.png",
-    "text": "A \"__CONTROL__fast-entity-transfer__\" engedményezi, hogy ha üres a kezed, akkor egy kattintással mindent felvegyél egy tárolóból például egy fa ládából. Míg a \"__CONTROL__fast-entity-split__\" a ládában lévő tárgyak felét veszi fel - amíg van helyed."
+    "text": "A \"__CONTROL__fast-entity-transfer__\" engedélyezi, hogy ha üres a kezed, akkor egy kattintással mindent felvegyél egy tárolóból például egy fa ládából. Míg a \"__CONTROL__fast-entity-split__\" a ládában lévő tárgyak felét veszi fel - amíg van helyed."
   },
   {
     "title": "Gyors sáv használata",
